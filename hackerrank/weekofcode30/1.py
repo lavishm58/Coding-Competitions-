@@ -60,3 +60,4 @@ for i in range(t):
 		print('unsafe')
 	else:
 		print('safe')		
+
